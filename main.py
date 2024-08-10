@@ -1,6 +1,3 @@
-'''
-Всем привет, это моя первая работа с изображениями и Yandex.диском, на все потратил ~ 5-6 часов
-'''
 import os
 from pathlib import Path
 from urllib.parse import urlencode
